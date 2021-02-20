@@ -1,0 +1,20 @@
+body{
+    border-style: inherit;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+div{
+    margin-top: inherit;
+}
+.img{
+    margin-right: inherit;
+    margin-left: inherit;
+}
+.img2{
+    margin-right: inherit;
+    margin-left: inherit;
+}
+.img3{
+    margin-right: inherit;
+    margin-left: inherit;
+}
